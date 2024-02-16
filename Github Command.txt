@@ -1,0 +1,13 @@
+git branch                  	-   Get Current branch
+git status                  	-   Status of the branch
+git branch [branchname]     	-   Create a branch
+git checkout gerald         	-   Switch to branch [branchname]
+git add .                   	-   Add all file to be committed
+git add [filename]              -   Add file to be committed
+git commit -m "remarks"     	-   commit with remarks
+git fetch origin main       	-   fetch from main branch
+git pull origin main        	-   pull from main branch
+git push origin [branchname]    -   push committed to [branchname]
+git rm -r --cached path     	-   remove folder
+git restore .			        -   restore all files from previous commit	
+git restore [filename]	 	    -   restore file from previous commit	
